@@ -5,9 +5,9 @@ project:
 
 1. Black-box hard-label attack on multi-class image classification models via
    Bayesian Optimization -> [bo_attack](bo_attack) folder.
-2. JPEG Compression Attack on ManTra-Net -> mantra-net folder.
+2. JPEG Compression Attack on ManTra-Net -> [mantra_net](mantra_net) folder.
 3. Defense against JPEG attacks via estimating previous quantization matrices ->
-   [estimate_jpeg_q_tables](estimate_jpeg_q_tables) folder.
+   [estimate_jpeg_qtables](estimate_jpeg_qtables) folder.
 
 ## Datasets used
 - [RAISE](http://loki.disi.unitn.it/RAISE/download.html) - dataset of
