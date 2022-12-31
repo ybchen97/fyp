@@ -30,5 +30,5 @@ estimation algorithm:
 This folder contains notebooks on forgery detection using the PQE algorithm.
 - [detect_forgery.ipynb](forgery_detection/detect_forgery.ipynb) -
   implementation of forgery detection algorithm.
-- [detect_forgeryCASIA1.0.ipynb](forgery_detection/detect_forgery.ipynb) -
-  forgery detection experiment on CASIA1.0 dataset.
+- [detect_forgery_CASIA1.0.ipynb](forgery_detection/detect_forgery_CASIA1.0.ipynb)
+  - forgery detection experiment on CASIA1.0 dataset.
